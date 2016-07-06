@@ -1,0 +1,12 @@
+z:\visual studio 2015\Projects\ConsolePractice\bin\Debug\ConsolePractice.exe.config
+z:\visual studio 2015\Projects\ConsolePractice\obj\Debug\ConsolePractice.csprojResolveAssemblyReference.cache
+z:\visual studio 2015\Projects\ConsolePractice\bin\Debug\ConsolePractice.exe
+z:\visual studio 2015\Projects\ConsolePractice\bin\Debug\ConsolePractice.pdb
+z:\visual studio 2015\Projects\ConsolePractice\obj\Debug\ConsolePractice.exe
+z:\visual studio 2015\Projects\ConsolePractice\obj\Debug\ConsolePractice.pdb
+C:\Users\Mooska\Dropbox\ConsolePractice\bin\Debug\ConsolePractice.exe.config
+C:\Users\Mooska\Dropbox\ConsolePractice\obj\Debug\ConsolePractice.exe
+C:\Users\Mooska\Dropbox\ConsolePractice\obj\Debug\ConsolePractice.pdb
+C:\Users\Mooska\Dropbox\ConsolePractice\bin\Debug\ConsolePractice.exe
+C:\Users\Mooska\Dropbox\ConsolePractice\bin\Debug\ConsolePractice.pdb
+C:\Users\Mooska\Dropbox\ConsolePractice\obj\Debug\ConsolePractice.csprojResolveAssemblyReference.cache

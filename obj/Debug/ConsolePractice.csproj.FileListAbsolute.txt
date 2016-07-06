@@ -10,3 +10,6 @@ C:\Users\Mooska\Dropbox\ConsolePractice\obj\Debug\ConsolePractice.pdb
 C:\Users\Mooska\Dropbox\ConsolePractice\bin\Debug\ConsolePractice.exe
 C:\Users\Mooska\Dropbox\ConsolePractice\bin\Debug\ConsolePractice.pdb
 C:\Users\Mooska\Dropbox\ConsolePractice\obj\Debug\ConsolePractice.csprojResolveAssemblyReference.cache
+E:\users\mooska\Dropbox\ConsolePractice\bin\Debug\ConsolePractice.exe.config
+E:\users\mooska\Dropbox\ConsolePractice\obj\Debug\ConsolePractice.exe
+E:\users\mooska\Dropbox\ConsolePractice\obj\Debug\ConsolePractice.pdb
